@@ -1,4 +1,4 @@
-# HTML手机微信端数据提交表单页面设计submitHtml
+# HTML手机微信端数据提交表单页面设计
 效果如下：
 ![](images/img.gif)
 
